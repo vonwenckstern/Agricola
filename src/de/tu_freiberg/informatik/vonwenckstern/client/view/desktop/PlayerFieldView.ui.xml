@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder' xmlns:g='urn:import:com.google.gwt.user.client.ui'
+xmlns:a='urn:import:de.tu_freiberg.informatik.vonwenckstern.client.view.desktop'>
+	<ui:style>
+		.panel {
+			background-color: blue;
+			cursor: pointer;
+		}
+		.handcursor {
+			cursor: pointer;
+	    }
+	</ui:style>
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.FieldCard.*" />
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.Resource.*" />
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.Player.*" />
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.Child.*" />
+	<ui:with field='im' type='de.tu_freiberg.informatik.vonwenckstern.client.resources.Images'/> 
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field1">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field2">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field3">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field4">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field5">
+		<ui:attributes field="{F_WOOD_HOUSE}" child="{C_BLUE}" player="{BLUE}" personsCount="1"/>
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field6">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field7">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field8">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field9">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field10">
+		<ui:attributes field="{F_WOOD_HOUSE}" child="{C_BLUE}" player="{BLUE}" personsCount="1"/>
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field11">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field12">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field13">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field14">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field15">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	
+		<g:AbsolutePanel width="1000px" height="1000px">
+			<g:at left="0" top="0">
+				<g:HTML>
+					<img src="{im.playerField.getSafeUri}" height="400px" />
+				</g:HTML>
+			</g:at>
+			<g:at left="55" top="335">
+				<g:Label text="Information" ui:field="info" visible="false"/>
+			</g:at>
+			<g:at left="449" top="335">
+				<g:PushButton text="new enclosure" ui:field="btnEnclosure" visible="false"/>
+			</g:at>
+			<g:at left="229" top="335">
+				<g:PushButton text="finish special events and continue feeding your family" ui:field="btnFeedingFamily" visible="false"/>
+			</g:at>
+			
+			<g:at left="55" top="35">
+				<a:SmallFieldRenderer model="{field1}" styleName="{style.handcursor}" position="0"/>
+			</g:at>
+			<g:at left="159" top="35">
+				<a:SmallFieldRenderer model="{field2}" styleName="{style.handcursor}" position="1"/>
+			</g:at>
+			<g:at left="261" top="35">
+				<a:SmallFieldRenderer model="{field3}" styleName="{style.handcursor}" position="2"/>
+			</g:at>
+			<g:at left="363" top="35">
+				<a:SmallFieldRenderer model="{field4}" styleName="{style.handcursor}" position="3"/>
+			</g:at>
+			<g:at left="465" top="35">
+				<a:SmallFieldRenderer model="{field5}" styleName="{style.handcursor}" position="4"/>
+			</g:at>
+			
+			<g:at left="55" top="140">
+				<a:SmallFieldRenderer model="{field6}" styleName="{style.handcursor}" position="5"/>
+			</g:at>
+			<g:at left="159" top="140">
+				<a:SmallFieldRenderer model="{field7}" styleName="{style.handcursor}" position="6"/>
+			</g:at>
+			<g:at left="261" top="140">
+				<a:SmallFieldRenderer model="{field8}" styleName="{style.handcursor}" position="7"/>
+			</g:at>
+			<g:at left="363" top="140">
+				<a:SmallFieldRenderer model="{field9}" styleName="{style.handcursor}" position="8"/>
+			</g:at>
+			<g:at left="465" top="140">
+				<a:SmallFieldRenderer model="{field10}" styleName="{style.handcursor}" position="9"/>
+			</g:at>
+			
+			<g:at left="55" top="242">
+				<a:SmallFieldRenderer model="{field11}" styleName="{style.handcursor}" position="10"/>
+			</g:at>
+			<g:at left="159" top="242">
+				<a:SmallFieldRenderer model="{field12}" styleName="{style.handcursor}" position="11"/>
+			</g:at>
+			<g:at left="261" top="242">
+				<a:SmallFieldRenderer model="{field13}" styleName="{style.handcursor}" position="12"/>
+			</g:at>
+			<g:at left="363" top="242">
+				<a:SmallFieldRenderer model="{field14}" styleName="{style.handcursor}" position="13"/>
+			</g:at>
+			<g:at left="465" top="242">
+				<a:SmallFieldRenderer model="{field15}" styleName="{style.handcursor}" position="14"/>
+			</g:at>
+			
+			<g:at left="475" top="400">
+				<a:AcquisitionCardRenderer position="0"/>
+			</g:at>
+			<g:at left="405" top="400">
+				<a:AcquisitionCardRenderer position="1"/>
+			</g:at>
+			<g:at left="335" top="400">
+				<a:AcquisitionCardRenderer position="2"/>
+			</g:at>
+			<g:at left="265" top="400">
+				<a:AcquisitionCardRenderer position="3"/>
+			</g:at>
+			<g:at left="195" top="400">
+				<a:AcquisitionCardRenderer position="4"/>
+			</g:at>
+			<g:at left="125" top="400">
+				<a:AcquisitionCardRenderer position="5"/>
+			</g:at>
+			<g:at left="55" top="400">
+				<a:AcquisitionCardRenderer position="6"/>
+			</g:at>
+			<g:at left="475" top="515">
+				<a:AcquisitionCardRenderer position="7"/>
+			</g:at>
+			<g:at left="405" top="515">
+				<a:AcquisitionCardRenderer position="8"/>
+			</g:at>
+			<g:at left="335" top="515">
+				<a:AcquisitionCardRenderer position="9"/>
+			</g:at>
+		</g:AbsolutePanel>
+</ui:UiBinder>

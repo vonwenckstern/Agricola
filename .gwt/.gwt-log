@@ -1,0 +1,2570 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2721 units from cache.
+Compiling...
+   Compilation completed in 3,66 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359907090913_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359907091381_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359907866624_GenBundle
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cardFieldImage
+         Finding resources
+            [ERROR] No com.google.gwt.resources.client.ClientBundle$Source annotation and no resources found with default extensions
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359907866624_GenBundle'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2720 cached/archived units.  Used 2720 / 2721 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class Image has no appropriate setImage() method: <g:Image image='{images.cardField}'> (:10)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2721 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908358523_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method acquisition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.acquisition'
+      Preparing method basketMaker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.basketMaker'
+      Preparing method beggarCard
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.beggarCard'
+      Preparing method bigAcquisitionsField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.bigAcquisitionsField'
+      Preparing method boar
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.boar'
+      Preparing method cabaret
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cabaret'
+      Preparing method cardField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cardField'
+      Preparing method childRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.childRosa'
+      Preparing method clayHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayHouse'
+      Preparing method clayOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayOven'
+      Preparing method clayStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayStone'
+      Preparing method clayTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayTwo'
+      Preparing method cookery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery'
+      Preparing method cookery2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery2'
+      Preparing method cover
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cover'
+      Preparing method cow
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cow'
+      Preparing method cowMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cowMarker'
+      Preparing method familyAddition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition'
+      Preparing method familyAddition2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition2'
+      Preparing method fieldMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fieldMarker'
+      Preparing method firePlace
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace'
+      Preparing method firePlace2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace2'
+      Preparing method foodMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.foodMarker'
+      Preparing method fountain
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fountain'
+      Preparing method gamePhases
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.gamePhases'
+      Preparing method grainStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.grainStone'
+      Preparing method houseRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.houseRosa'
+      Preparing method joinery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.joinery'
+      Preparing method playerField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.playerField'
+      Preparing method plowingField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.plowingField'
+      Preparing method pottery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.pottery'
+      Preparing method reedStoneFood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.reedStoneFood'
+      Preparing method restauration
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration'
+      Preparing method restauration2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration2'
+      Preparing method rounds1To7
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds1To7'
+      Preparing method rounds8To14
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds8To14'
+      Preparing method seedingBacking
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.seedingBacking'
+      Preparing method sheep
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheep'
+      Preparing method sheepMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheepMarker'
+      Preparing method stone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone'
+      Preparing method stone2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone2'
+      Preparing method stoneOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stoneOven'
+      Preparing method vegetable
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetable'
+      Preparing method vegetableStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetableStone'
+      Preparing method wood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.wood'
+      Preparing method woodHause
+         Finding resources
+            [ERROR] Resource holzhaus.JPG not found. Is the name specified as Class.getResource() would expect?
+      Preparing method woodStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodStone'
+      Preparing method woodTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodTwo'
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2720 cached/archived units.  Used 2720 / 2721 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908427161_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method acquisition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.acquisition'
+      Preparing method basketMaker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.basketMaker'
+      Preparing method beggarCard
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.beggarCard'
+      Preparing method bigAcquisitionsField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.bigAcquisitionsField'
+      Preparing method boar
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.boar'
+      Preparing method cabaret
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cabaret'
+      Preparing method cardField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cardField'
+      Preparing method childRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.childRosa'
+      Preparing method clayHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayHouse'
+      Preparing method clayOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayOven'
+      Preparing method clayStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayStone'
+      Preparing method clayTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayTwo'
+      Preparing method cookery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery'
+      Preparing method cookery2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery2'
+      Preparing method cover
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cover'
+      Preparing method cow
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cow'
+      Preparing method cowMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cowMarker'
+      Preparing method familyAddition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition'
+      Preparing method familyAddition2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition2'
+      Preparing method fieldMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fieldMarker'
+      Preparing method firePlace
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace'
+      Preparing method firePlace2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace2'
+      Preparing method foodMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.foodMarker'
+      Preparing method fountain
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fountain'
+      Preparing method gamePhases
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.gamePhases'
+      Preparing method grainStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.grainStone'
+      Preparing method houseRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.houseRosa'
+      Preparing method joinery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.joinery'
+      Preparing method playerField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.playerField'
+      Preparing method plowingField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.plowingField'
+      Preparing method pottery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.pottery'
+      Preparing method reedStoneFood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.reedStoneFood'
+      Preparing method restauration
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration'
+      Preparing method restauration2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration2'
+      Preparing method rounds1To7
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds1To7'
+      Preparing method rounds8To14
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds8To14'
+      Preparing method seedingBacking
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.seedingBacking'
+      Preparing method sheep
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheep'
+      Preparing method sheepMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheepMarker'
+      Preparing method stone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone'
+      Preparing method stone2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone2'
+      Preparing method stoneOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stoneOven'
+      Preparing method vegetable
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetable'
+      Preparing method vegetableStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetableStone'
+      Preparing method wood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.wood'
+      Preparing method woodHause
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodHause'
+      Preparing method woodStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodStone'
+      Preparing method woodTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodTwo'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908427925_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908547436_GenBundle
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cardFieldImage
+         Finding resources
+            [ERROR] No com.google.gwt.resources.client.ClientBundle$Source annotation and no resources found with default extensions
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908547436_GenBundle'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2720 cached/archived units.  Used 2720 / 2721 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908623295_GenBundle
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cardFieldImage
+         Finding resources
+            [ERROR] No com.google.gwt.resources.client.ClientBundle$Source annotation and no resources found with default extensions
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908623295_GenBundle'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2721 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908626410_GenBundle
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cardFieldImage
+         Finding resources
+            [ERROR] No com.google.gwt.resources.client.ClientBundle$Source annotation and no resources found with default extensions
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359908626410_GenBundle'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2720 cached/archived units.  Used 2720 / 2721 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359909231764_GenBundle
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cardFieldImage
+         Finding resources
+            [ERROR] No com.google.gwt.resources.client.ClientBundle$Source annotation and no resources found with default extensions
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359909231764_GenBundle'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359909728092_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Deferred binding result type 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.CSS' should not be abstract
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359909731625_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Deferred binding result type 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.CSS' should not be abstract
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910399007_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method acquisition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.acquisition'
+      Preparing method basketMaker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.basketMaker'
+      Preparing method beggarCard
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.beggarCard'
+      Preparing method bigAcquisitionsField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.bigAcquisitionsField'
+      Preparing method boar
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.boar'
+      Preparing method cabaret
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cabaret'
+      Preparing method cardField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cardField'
+      Preparing method childRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.childRosa'
+      Preparing method clayHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayHouse'
+      Preparing method clayOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayOven'
+      Preparing method clayStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayStone'
+      Preparing method clayTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayTwo'
+      Preparing method cookery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery'
+      Preparing method cookery2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery2'
+      Preparing method cover
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cover'
+      Preparing method cow
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cow'
+      Preparing method cowMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cowMarker'
+      Preparing method familyAddition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition'
+      Preparing method familyAddition2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition2'
+      Preparing method fieldMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fieldMarker'
+      Preparing method firePlace
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace'
+      Preparing method firePlace2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace2'
+      Preparing method foodMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.foodMarker'
+      Preparing method fountain
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fountain'
+      Preparing method gamePhases
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.gamePhases'
+      Preparing method grainStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.grainStone'
+      Preparing method houseRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.houseRosa'
+      Preparing method joinery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.joinery'
+      Preparing method playerField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.playerField'
+      Preparing method plowingField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.plowingField'
+      Preparing method pottery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.pottery'
+      Preparing method reedStoneFood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.reedStoneFood'
+      Preparing method restauration
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration'
+      Preparing method restauration2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration2'
+      Preparing method rounds1To7
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds1To7'
+      Preparing method rounds8To14
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds8To14'
+      Preparing method seedingBacking
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.seedingBacking'
+      Preparing method sheep
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheep'
+      Preparing method sheepMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheepMarker'
+      Preparing method stone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone'
+      Preparing method stone2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone2'
+      Preparing method stoneOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stoneOven'
+      Preparing method vegetable
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetable'
+      Preparing method vegetableStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetableStone'
+      Preparing method wood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.wood'
+      Preparing method woodHause
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodHause'
+      Preparing method woodStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodStone'
+      Preparing method woodTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodTwo'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910399636_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.google.gwt.resources.client.ImageResource required, but {images.cardField.getSafeUri} returns com.google.gwt.safehtml.shared.SafeUri: <g:Image resource='{images.cardField.getSafeUri}' width='400'> (:7)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910744410_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method acquisition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.acquisition'
+      Preparing method basketMaker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.basketMaker'
+      Preparing method beggarCard
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.beggarCard'
+      Preparing method bigAcquisitionsField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.bigAcquisitionsField'
+      Preparing method boar
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.boar'
+      Preparing method cabaret
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cabaret'
+      Preparing method cardField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cardField'
+      Preparing method childRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.childRosa'
+      Preparing method clayHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayHouse'
+      Preparing method clayOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayOven'
+      Preparing method clayStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayStone'
+      Preparing method clayTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.clayTwo'
+      Preparing method cookery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery'
+      Preparing method cookery2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cookery2'
+      Preparing method cover
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cover'
+      Preparing method cow
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cow'
+      Preparing method cowMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.cowMarker'
+      Preparing method familyAddition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition'
+      Preparing method familyAddition2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.familyAddition2'
+      Preparing method fieldMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fieldMarker'
+      Preparing method firePlace
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace'
+      Preparing method firePlace2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.firePlace2'
+      Preparing method foodMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.foodMarker'
+      Preparing method fountain
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.fountain'
+      Preparing method gamePhases
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.gamePhases'
+      Preparing method grainStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.grainStone'
+      Preparing method houseRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.houseRosa'
+      Preparing method joinery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.joinery'
+      Preparing method playerField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.playerField'
+      Preparing method plowingField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.plowingField'
+      Preparing method pottery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.pottery'
+      Preparing method reedStoneFood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.reedStoneFood'
+      Preparing method restauration
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration'
+      Preparing method restauration2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.restauration2'
+      Preparing method rounds1To7
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds1To7'
+      Preparing method rounds8To14
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.rounds8To14'
+      Preparing method seedingBacking
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.seedingBacking'
+      Preparing method sheep
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheep'
+      Preparing method sheepMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.sheepMarker'
+      Preparing method stone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone'
+      Preparing method stone2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stone2'
+      Preparing method stoneOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.stoneOven'
+      Preparing method vegetable
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetable'
+      Preparing method vegetableStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.vegetableStone'
+      Preparing method wood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.wood'
+      Preparing method woodHause
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodHause'
+      Preparing method woodStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodStone'
+      Preparing method woodTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.ressources.Images.woodTwo'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910745017_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910765580_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910771219_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910776064_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910821921_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910824392_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910849176_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910858766_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel left='0' top='0'> (:6)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel left='0' top='0'> (:5)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel left='0' top='0'> (:5)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel left='0' top='0'> (:5)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel left='0' top='0'> (:5)
+[ERROR] Deferred binding failed for 'de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910976965_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910977076_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910989435_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910989470_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910989524_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910991985_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910992018_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910992066_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910992128_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910996236_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910996252_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910996309_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359910999217_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911000095_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,10 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911000111_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911000265_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911001203_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911012453_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911269726_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911269893_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911273878_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911279737_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911306450_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911306480_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911323058_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911323090_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911323137_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911325205_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911325220_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911325266_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911325315_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911327384_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911327400_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911327446_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911328363_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911339040_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911465485_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911465516_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911465562_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911467342_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911518447_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911522155_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911522171_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911522225_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911522812_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911633446_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911642642_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911642673_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911642722_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.CardFieldView_BinderImpl_designTime1359911644237_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,72 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,99 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,72 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   20% complete (ETR: 13 seconds)
+   30% complete (ETR: 13 seconds)
+   30% complete (ETR: 13 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,33 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,88 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,23 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,27 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 8,88 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,93 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,61 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   20% complete (ETR: 13 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,36 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,13 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,07 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,91 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,44 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 12,01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,84 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2718 units from cache.
+Compiling...
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,68 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2718 cached/archived units.  Used 2718 / 2718 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2797 units from cache.
+Compiling...
+   Compilation completed in 3,80 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/GWT/workspace/DA_AgricolaMobile/src/de/tu_freiberg/informatik/vonwenckstern/client/resources%20-%20Kopie/CSS.java'
+      [ERROR] Line 1: The declared package "de.tu_freiberg.informatik.vonwenckstern.client.resources" does not match the expected package "de.tu_freiberg.informatik.vonwenckstern.client.resources - Kopie"
+   [ERROR] Errors in 'file:/C:/GWT/workspace/DA_AgricolaMobile/src/de/tu_freiberg/informatik/vonwenckstern/client/resources%20-%20Kopie/Images.java'
+      [ERROR] Line 1: The declared package "de.tu_freiberg.informatik.vonwenckstern.client.resources" does not match the expected package "de.tu_freiberg.informatik.vonwenckstern.client.resources - Kopie"
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView_BinderImpl_designTime1360689162888.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView_BinderImpl_designTime1360689162888.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+         Generating method body for html5()
+         Generating method body for html6()
+         Generating method body for html7()
+         Generating method body for html8()
+         Generating method body for html9()
+         Generating method body for html10()
+         Generating method body for html11()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView_BinderImpl_designTime1360689162888_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.resources.Images
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method acquisition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.acquisition'
+      Preparing method basketMaker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.basketMaker'
+      Preparing method beggarCard
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.beggarCard'
+      Preparing method bigAcquisitionsField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.bigAcquisitionsField'
+      Preparing method boar
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.boar'
+      Preparing method boarIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.boarIcon'
+      Preparing method boarMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.boarMarker'
+      Preparing method cabaret
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cabaret'
+      Preparing method cardField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cardField'
+      Preparing method childBlue
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.childBlue'
+      Preparing method childGreen
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.childGreen'
+      Preparing method childRed
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.childRed'
+      Preparing method childRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.childRosa'
+      Preparing method clayHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.clayHouse'
+      Preparing method clayIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.clayIcon'
+      Preparing method clayOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.clayOven'
+      Preparing method clayStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.clayStone'
+      Preparing method clayTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.clayTwo'
+      Preparing method clear
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.clear'
+      Preparing method cookery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cookery'
+      Preparing method cookery2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cookery2'
+      Preparing method cover
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cover'
+      Preparing method cow
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cow'
+      Preparing method cowIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cowIcon'
+      Preparing method cowMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.cowMarker'
+      Preparing method familyAddition
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.familyAddition'
+      Preparing method familyAddition2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.familyAddition2'
+      Preparing method fence
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.fence'
+      Preparing method fieldMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.fieldMarker'
+      Preparing method firePlace
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.firePlace'
+      Preparing method firePlace2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.firePlace2'
+      Preparing method foodMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.foodMarker'
+      Preparing method fountain
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.fountain'
+      Preparing method gamePhases
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.gamePhases'
+      Preparing method grainIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.grainIcon'
+      Preparing method grainStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.grainStone'
+      Preparing method houseBlue
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.houseBlue'
+      Preparing method houseGreen
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.houseGreen'
+      Preparing method houseRed
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.houseRed'
+      Preparing method houseRosa
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.houseRosa'
+      Preparing method joinery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.joinery'
+      Preparing method playerField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.playerField'
+      Preparing method plowingField
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.plowingField'
+      Preparing method pottery
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.pottery'
+      Preparing method reedIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.reedIcon'
+      Preparing method reedStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.reedStone'
+      Preparing method reedStoneFood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.reedStoneFood'
+      Preparing method restauration
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.restauration'
+      Preparing method restauration2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.restauration2'
+      Preparing method rounds1To7
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.rounds1To7'
+      Preparing method rounds8To14
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.rounds8To14'
+      Preparing method seedingBacking
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.seedingBacking'
+      Preparing method sheep
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.sheep'
+      Preparing method sheepIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.sheepIcon'
+      Preparing method sheepMarker
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.sheepMarker'
+      Preparing method stone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.stone'
+      Preparing method stone2
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.stone2'
+      Preparing method stoneHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.stoneHouse'
+      Preparing method stoneIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.stoneIcon'
+      Preparing method stoneOven
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.stoneOven'
+      Preparing method stoneStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.stoneStone'
+      Preparing method vegetable
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.vegetable'
+      Preparing method vegetableIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.vegetableIcon'
+      Preparing method vegetableStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.vegetableStone'
+      Preparing method wood
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.wood'
+      Preparing method woodHouse
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.woodHouse'
+      Preparing method woodIcon
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.woodIcon'
+      Preparing method woodStone
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.woodStone'
+      Preparing method woodTwo
+         Adding image 'de.tu_freiberg.informatik.vonwenckstern.client.resources.Images.woodTwo'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView_BinderImpl_designTime1360689164865.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView_BinderImpl_designTime1360689164865.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+         Generating method body for html5()
+         Generating method body for html6()
+         Generating method body for html7()
+         Generating method body for html8()
+         Generating method body for html9()
+         Generating method body for html10()
+         Generating method body for html11()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding de.tu_freiberg.informatik.vonwenckstern.client.view.mobile.BigAcquisitionsFieldView_BinderImpl_designTime1360689164865_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units

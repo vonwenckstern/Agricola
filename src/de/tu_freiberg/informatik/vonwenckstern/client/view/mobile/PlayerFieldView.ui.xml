@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder' xmlns:g='urn:import:com.google.gwt.user.client.ui'
+xmlns:a='urn:import:de.tu_freiberg.informatik.vonwenckstern.client.view.mobile'>
+	<ui:style>
+		.panel {
+			background-color: blue;
+			cursor: pointer;
+		}
+		.handcursor {
+			cursor: pointer;
+	    }
+	</ui:style>
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.FieldCard.*" />
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.Resource.*" />
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.Player.*" />
+	<ui:import field="de.tu_freiberg.informatik.vonwenckstern.client.model.Child.*" />
+	<ui:with field='im' type='de.tu_freiberg.informatik.vonwenckstern.client.resources.Images'/> 
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field1">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field2">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field3">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field4">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field5">
+		<ui:attributes field="{F_WOOD_HOUSE}" child="{C_BLUE}" player="{BLUE}" personsCount="1"/>
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field6">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field7">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field8">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field9">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field10">
+		<ui:attributes field="{F_WOOD_HOUSE}" child="{C_BLUE}" player="{BLUE}" personsCount="1"/>
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field11">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field12">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field13">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field14">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	<ui:with type="de.tu_freiberg.informatik.vonwenckstern.client.model.SmallFieldModel" field="field15">
+		<ui:attributes field="{F_NONE}" player="{BLUE}" />
+	</ui:with>
+	
+	<g:VerticalPanel width="400px" height="300px">
+		<g:Grid cellSpacing="5">
+			<g:row>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field1}" styleName="{style.handcursor}" position="0"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field2}" styleName="{style.handcursor}" position="1"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field3}" styleName="{style.handcursor}" position="2"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field4}" styleName="{style.handcursor}" position="3"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field5}" styleName="{style.handcursor}" position="4"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field6}" styleName="{style.handcursor}" position="5"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field7}" styleName="{style.handcursor}" position="6"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field8}" styleName="{style.handcursor}" position="7"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field9}" styleName="{style.handcursor}" position="8"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field10}" styleName="{style.handcursor}" position="9"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field11}" styleName="{style.handcursor}" position="10"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field12}" styleName="{style.handcursor}" position="11"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field13}" styleName="{style.handcursor}" position="12"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field14}" styleName="{style.handcursor}" position="13"/>
+				</g:customCell>
+				<g:customCell>
+					<a:SmallFieldRenderer model="{field15}" styleName="{style.handcursor}" position="14"/>
+				</g:customCell>
+			</g:row>
+		</g:Grid>
+		<g:HorizontalPanel>
+			<g:Label text="Information" ui:field="info" visible="false"/>
+			<g:PushButton text="new enclosure" ui:field="btnEnclosure" visible="false"/>
+			<g:PushButton text="finish special events and continue feeding your family" ui:field="btnFeedingFamily" visible="false"/>
+		</g:HorizontalPanel>
+		<g:Grid>
+			<g:row>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="4"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="3"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="2"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="1"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="0"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="9"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="8"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="7"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="6"/>
+				</g:customCell>
+				<g:customCell>
+					<a:AcquisitionCardRenderer position="5"/>
+				</g:customCell>
+			</g:row>
+		</g:Grid>
+	</g:VerticalPanel>
+</ui:UiBinder>

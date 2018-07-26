@@ -1,2 +1,0 @@
-# Module de.tu_freiberg.informatik.vonwenckstern.Agricola
-# RPC service class, partial path of RPC policy file
